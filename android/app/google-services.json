@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "5371514451",
+    "firebase_url": "https://rubrica-f3b3e-default-rtdb.firebaseio.com",
+    "project_id": "rubrica-f3b3e",
+    "storage_bucket": "rubrica-f3b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5371514451:android:310297b3c477a2d99340a6",
+        "android_client_info": {
+          "package_name": "com.example.rubrica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHWMM1K4SPK6mKvAH8LVsqWZmyGbAMcsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
