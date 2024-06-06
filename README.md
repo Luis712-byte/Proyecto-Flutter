@@ -1,4 +1,4 @@
-# rubrica
+# Proyecto
 
 A new Flutter project.
 
